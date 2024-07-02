@@ -24,7 +24,7 @@ like CUDA for real-time navigation systems.
 ### Keywords: Breadth First Search, Global Positioning System, Parallel programming, Open
 Multi Programming, Message Passing Interface, Compute Unified Device.
 
-SCREEN SHOT OF RESULTS :
+#### SCREEN SHOT OF RESULTS :
 
 ![image](https://github.com/Barath2gt/barathgpu/assets/112960329/4de2521d-d64b-45e2-ac04-716e3f5e1b2d)
 
