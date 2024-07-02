@@ -1,8 +1,8 @@
 # barathgpu
 
-Performance Measure of GPS Navigation using Breadth First Algorithm Implemented in CUDA!:
+### Performance Measure of GPS Navigation using Breadth First Algorithm Implemented in CUDA!:
 
-#The aim of this project is to measure the performance of GPS navigation using a
+The aim of this project is to measure the performance of GPS navigation using a
 breadth-first search (BFS) algorithm implemented using the CUDA parallel computing
 platform. The BFS algorithm is one of the well-known graph traversal techniques that is
 widely used in various applications, including navigation systems. By implementing the
@@ -21,7 +21,7 @@ contribute to the understanding of the performance characteristics of GPS naviga
 BFS and provide insights into the potential benefits of using parallel computing platforms
 like CUDA for real-time navigation systems.
 
-#Keywords: Breadth First Search, Global Positioning System, Parallel programming, Open
+### Keywords: Breadth First Search, Global Positioning System, Parallel programming, Open
 Multi Programming, Message Passing Interface, Compute Unified Device.
 
 SCREEN SHOT OF RESULTS :
